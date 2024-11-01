@@ -1,0 +1,14 @@
+11:54:24.776 [main] INFO  com.test.config.WebDriverConfig - WebDriver initialized successfully
+11:54:24.777 [main] INFO  com.test.hooks.TestHooks - WebDriver initialized successfully
+11:54:34.211 [main] INFO  com.test.config.WebDriverConfig - WebDriver quit successfully
+11:54:34.211 [main] INFO  com.test.hooks.TestHooks - WebDriver closed successfully
+11:54:36.184 [main] INFO  com.test.config.WebDriverConfig - WebDriver initialized successfully
+11:54:36.191 [main] INFO  com.test.hooks.TestHooks - WebDriver initialized successfully
+11:54:39.454 [main] INFO  com.test.utils.ScrollUtils - Scrolled to position: 801 (Scroll #1/2)
+11:54:39.975 [main] INFO  com.test.utils.ScrollUtils - Scrolled to position: 1602 (Scroll #2/2)
+11:54:41.003 [main] INFO  com.test.config.WebDriverConfig - WebDriver quit successfully
+11:54:41.004 [main] INFO  com.test.hooks.TestHooks - WebDriver closed successfully
+11:54:42.932 [main] INFO  com.test.config.WebDriverConfig - WebDriver initialized successfully
+11:54:42.939 [main] INFO  com.test.hooks.TestHooks - WebDriver initialized successfully
+11:54:45.049 [main] INFO  com.test.config.WebDriverConfig - WebDriver quit successfully
+11:54:45.049 [main] INFO  com.test.hooks.TestHooks - WebDriver closed successfully
